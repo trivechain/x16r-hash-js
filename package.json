@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/underdarkskies/node-x16r.git"
+        "url": "https://github.com/OverstockMedici/node-x16r.git"
     },
     "dependencies": {
         "bindings": "^1.3.0",
