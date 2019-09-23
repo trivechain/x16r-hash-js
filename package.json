@@ -1,5 +1,5 @@
 {
-    "name": "@ravendevkit/node-x16r",
+    "name": "node-x16r",
     "version": "1.0.2",
     "main": "nodex16r",
     "author": {
