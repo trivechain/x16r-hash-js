@@ -1,19 +1,39 @@
 {
-    "name": "node-x16r",
-    "version": "1.0.2",
-    "main": "nodex16r",
-    "author": {
-        "name": "Under"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/RavenDevKit/node-x16r.git"
-    },
-    "dependencies": {
-        "bindings": "^1.3.0",
-        "nan": "^2.6.2"
-    },
-    "keywords": [
-        "x16r"
-    ]
+  "name": "@trivechain/x16r-hash-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "contributors": [
+    "Under",
+    "Tan Ji Sheng <js@trive.academy>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivechain/x16r-hash-js.git"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "nan": "2.14.0"
+  },
+  "keywords": [
+    "x16r",
+    "trivechain",
+    "trvc",
+    "ravencoin",
+    "rvn"
+  ],
+  "scripts": {
+    "test": "jest",
+    "install": "node-gyp rebuild"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
+  },
+  "gypfile": true,
+  "description": "X16R Hash Algorithm implemented for Node JS",
+  "bugs": {
+    "url": "https://github.com/trivechain/x16r-hash-js/issues"
+  },
+  "homepage": "https://github.com/trivechain/x16r-hash-js#readme",
+  "author": "trivechain",
+  "license": "ISC"
 }
