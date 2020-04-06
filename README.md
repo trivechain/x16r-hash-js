@@ -1,6 +1,8 @@
 # X16R Hashing Algorithm
 <a href="https://discord.gg/mZuXBxW"><img src="https://img.shields.io/discord/571241080373116928" alt="discord"></a>
 <a href="https://travis-ci.org/trivechain/x16r-hash-js"><img src="https://img.shields.io/travis/trivechain/x16r-hash-js/master.svg" alt="travis"></a>
+<a href='https://www.npmjs.com/package/@trivechain/x16r-hash-js'><img alt="npm" src="https://img.shields.io/npm/dm/@trivechain/x16r-hash-js"></a>
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/@trivechain/x16r-hash-js">
 
 This is a repository for the X16R hashing algorithm that is used by Trivechain beginning April 22nd, 2019 ( TRVC 2.0 fork ).
 
